@@ -14,6 +14,7 @@
 		8D07459B2409322900880F76 /* MyCoreDataTutorial.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8D0745992409322900880F76 /* MyCoreDataTutorial.xcdatamodeld */; };
 		8D07459D2409322A00880F76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D07459C2409322A00880F76 /* Assets.xcassets */; };
 		8D0745A02409322A00880F76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D07459E2409322A00880F76 /* LaunchScreen.storyboard */; };
+		8D0745A8240936BA00880F76 /* CoreDataManagement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0745A7240936BA00880F76 /* CoreDataManagement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8D07459C2409322A00880F76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D07459F2409322A00880F76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D0745A12409322A00880F76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D0745A7240936BA00880F76 /* CoreDataManagement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManagement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8D07459E2409322A00880F76 /* LaunchScreen.storyboard */,
 				8D0745A12409322A00880F76 /* Info.plist */,
 				8D0745992409322900880F76 /* MyCoreDataTutorial.xcdatamodeld */,
+				8D0745A7240936BA00880F76 /* CoreDataManagement.swift */,
 			);
 			path = MyCoreDataTutorial;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				8D0745952409322900880F76 /* ViewController.swift in Sources */,
 				8D0745912409322900880F76 /* AppDelegate.swift in Sources */,
 				8D0745932409322900880F76 /* SceneDelegate.swift in Sources */,
+				8D0745A8240936BA00880F76 /* CoreDataManagement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
